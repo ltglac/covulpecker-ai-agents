@@ -14,8 +14,7 @@ build/
 logs/*.log
 outputs/*.json
 outputs/*.txt
-tmp/*
-!tmp/.gitkeep
+tmp/
 !logs/.gitkeep
 !outputs/.gitkeep
 .DS_Store
